@@ -1,0 +1,43 @@
+name: Điểm tin 08:00
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # 01:00 UTC = 08:00 giờ VN (GitHub có thể trễ 5–20 phút)
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Ngày (YYYY-MM-DD), để trống = hôm nay"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: diem-tin
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TZ: Asia/Ho_Chi_Minh
+      AI_PROVIDER: none
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Cào tin + lọc 6 trụ cột
+        run: npm run briefing:build -- ${{ github.event.inputs.date }}
+      - name: Commit dữ liệu
+        run: |
+          git config user.name "diem-tin-bot"
+          git config user.email "diem-tin-bot@users.noreply.github.com"
+          git add public/data
+          git diff --cached --quiet && echo "Không có thay đổi" && exit 0
+          git commit -m "Điểm tin $(date +%F) — thu thập tự động"
+          git pull --rebase
+          git push
