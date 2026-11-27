@@ -1,0 +1,401 @@
+{
+ "date": "2026-11-27",
+ "generatedAt": "2026-11-27T02:08:40.586Z",
+ "publishAt": "2026-11-27T02:00:00.000Z",
+ "aiProvider": "none",
+ "kpis": {
+  "totalNewDocs": 3,
+  "xpxdHoanCong": 0,
+  "gcn": 0,
+  "tieuChuan": 1,
+  "gpmb": 2,
+  "nhaO": 0,
+  "totalNews": 30
+ },
+ "legalDocuments": [
+  {
+   "id": "doc-1",
+   "docNumber": "138/2026/QĐ-UBND",
+   "title": "Quyết định 138/2026/QĐ-UBND của Ủy ban nhân dân tỉnh Thanh Hóa ban hành Quy định về quản lý, vận hành, khai thác, bảo trì và bảo vệ kết cấu hạ tầng đường bộ thuộc phạm vi quản lý của Ủy ban nhân dân tỉnh Thanh Hóa",
+   "docType": "Quyết định",
+   "issuer": "—",
+   "issueDate": null,
+   "effectiveDate": null,
+   "status": "dang-hieu-luc",
+   "isHot": false,
+   "pillars": [
+    "tieu-chuan"
+   ],
+   "summary": "Quyết định 138/2026/QĐ-UBND của Ủy ban nhân dân tỉnh Thanh Hóa ban hành Quy định về quản lý, vận hành, khai thác, bảo trì và bảo vệ kết cấu hạ tầng đường bộ thuộc phạm vi quản lý của Ủy ban nhân dân tỉnh Thanh Hóa Tổng quan VB liên quan Hiệu lực Lược đồ Tiếng Anh Tải về",
+   "impactBullets": [
+    "Quyết định 138/2026/QĐ-UBND của Ủy ban nhân dân tỉnh Thanh Hóa ban hành Quy định về quản lý, vận hành, khai thác, bảo trì và bảo vệ kết cấu "
+   ],
+   "relatedDocs": [],
+   "affectedSubjects": [],
+   "comparisons": [],
+   "actionItems": [],
+   "keyQuotes": [],
+   "sourceName": "LuatVietnam — Văn bản mới",
+   "sourceUrl": "https://luatvietnam.vn/xay-dung/quyet-dinh-138-2026-qd-ubnd-thanh-hoa-quan-ly-van-hanh-khai-thac-bao-tri-va-bao-ve-ket-cau-ha-tang-duong-bo-457881-d2.html",
+   "enriched": false
+  },
+  {
+   "id": "doc-2",
+   "docNumber": "664/KH-UBND",
+   "title": "Kế hoạch 664/KH-UBND của Ủy ban nhân dân Thành phố Hồ Chí Minh triển khai thực hiện công tác bồi thường, hỗ trợ, tái định cư Dự án Xây dựng cải tạo, mở rộng đường Tôn Thất Thuyết và công viên cây xanh dọc bờ kênh Tẻ",
+   "docType": "Kế hoạch",
+   "issuer": "—",
+   "issueDate": null,
+   "effectiveDate": null,
+   "status": "dang-hieu-luc",
+   "isHot": false,
+   "pillars": [
+    "gpmb"
+   ],
+   "summary": "Kế hoạch 664/KH-UBND của Ủy ban nhân dân Thành phố Hồ Chí Minh triển khai thực hiện công tác bồi thường, hỗ trợ, tái định cư Dự án Xây dựng cải tạo, mở rộng đường Tôn Thất Thuyết và công viên cây xanh dọc bờ kênh Tẻ Tổng quan VB liên quan Hiệu lực Lược đồ Tiếng Anh Tải về",
+   "impactBullets": [
+    "Kế hoạch 664/KH-UBND của Ủy ban nhân dân Thành phố Hồ Chí Minh triển khai thực hiện công tác bồi thường, hỗ trợ, tái định cư Dự án Xây dựng "
+   ],
+   "relatedDocs": [],
+   "affectedSubjects": [],
+   "comparisons": [],
+   "actionItems": [],
+   "keyQuotes": [],
+   "sourceName": "LuatVietnam — Văn bản mới",
+   "sourceUrl": "https://luatvietnam.vn/dau-tu/ke-hoach-664-kh-ubnd-tp-hcm-2026-boi-thuong-ho-tro-tai-dinh-cu-du-an-duong-ton-that-thuyet-457850-d2.html",
+   "enriched": false
+  },
+  {
+   "id": "doc-3",
+   "docNumber": "136/2026/QĐ-UBND",
+   "title": "Quyết định 136/2026/QĐ-UBND của Ủy ban nhân dân tỉnh Đồng Tháp quy định về các trường hợp, biện pháp, mức hỗ trợ di dời vật nuôi khi Nhà nước thu hồi đất trên địa bàn tỉnh Đồng Tháp",
+   "docType": "Quyết định",
+   "issuer": "—",
+   "issueDate": null,
+   "effectiveDate": null,
+   "status": "dang-hieu-luc",
+   "isHot": false,
+   "pillars": [
+    "gpmb"
+   ],
+   "summary": "Quyết định 136/2026/QĐ-UBND của Ủy ban nhân dân tỉnh Đồng Tháp quy định về các trường hợp, biện pháp, mức hỗ trợ di dời vật nuôi khi Nhà nước thu hồi đất trên địa bàn tỉnh Đồng Tháp Tổng quan VB liên quan Hiệu lực Lược đồ Tiếng Anh Tải về",
+   "impactBullets": [
+    "Quyết định 136/2026/QĐ-UBND của Ủy ban nhân dân tỉnh Đồng Tháp quy định về các trường hợp, biện pháp, mức hỗ trợ di dời vật nuôi khi Nhà nướ"
+   ],
+   "relatedDocs": [],
+   "affectedSubjects": [],
+   "comparisons": [],
+   "actionItems": [],
+   "keyQuotes": [],
+   "sourceName": "LuatVietnam — Văn bản mới",
+   "sourceUrl": "https://luatvietnam.vn/dat-dai/quyet-dinh-136-2026-qd-ubnd-dong-thap-ho-tro-di-doi-vat-nuoi-khi-thu-hoi-dat-457857-d2.html",
+   "enriched": false
+  }
+ ],
+ "analyses": [
+  {
+   "id": "an-1",
+   "kind": "phan-tich",
+   "pillars": [
+    "gcn"
+   ],
+   "title": "Tra cứu diện tích tách thửa",
+   "summary": "Tra cứu diện tích tách thửa",
+   "keyPoints": [],
+   "sourceName": "LuatVietnam — Văn bản mới",
+   "sourceUrl": "https://luatvietnam.vn/tra-cuu-dien-tich-tach-thua.html",
+   "publishedAt": null
+  },
+  {
+   "id": "an-2",
+   "kind": "phan-tich",
+   "pillars": [
+    "xpxd"
+   ],
+   "title": "Từ 30/11/2026, TP HCM bổ sung 3 nhóm công trình được miễn giấy phép xây dựng",
+   "summary": "Từ 30/11/2026, TP HCM bổ sung 3 nhóm công trình được miễn giấy phép xây dựng",
+   "keyPoints": [],
+   "sourceName": "LuatVietnam — Văn bản mới",
+   "sourceUrl": "https://luatvietnam.vn/tin-van-ban-moi/tu-30-11-2026-tp-hcm-bo-sung-3-nhom-cong-trinh-duoc-mien-giay-phep-xay-dung-186-116235-article.html",
+   "publishedAt": "2026-11-29T17:00:00.000Z"
+  }
+ ],
+ "news": [
+  {
+   "id": "r35",
+   "category": "bat-dong-san",
+   "title": "TP HCM miễn giấy phép xây dựng nhà ở riêng lẻ dưới 7 tầng",
+   "summary": "Nhà ở riêng lẻ dưới 7 tầng, công trình tạm, trụ sạc và tủ đổi pin tại TP HCM được miễn giấy phép xây dựng từ ngày 30/11.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/tp-hcm-mien-giay-phep-xay-dung-nha-o-rieng-le-duoi-7-tang-5149017.html",
+   "publishedAt": "2026-11-26T02:54:20.000Z"
+  },
+  {
+   "id": "r135",
+   "category": "thoi-su",
+   "title": "TP.HCM miễn giấy phép xây dựng nhà ở riêng lẻ, nhà ở nào được miễn?",
+   "summary": "Quyết định miễn giấy phép xây dựng UBND TP.HCM ban hành đã mở thêm diện miễn giấy phép cho rất nhiều nhà ở riêng lẻ của hộ gia đình, cá nhân, tổ chức chiếm phần lớn nhu cầu xây dựng ở TP.HCM.",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/tphcm-mien-giay-phep-xay-dung-nha-o-rieng-le-nha-o-nao-duoc-mien-10026112616051336.htm",
+   "publishedAt": "2026-11-26T11:10:00.000Z"
+  },
+  {
+   "id": "r275",
+   "category": "thoi-su",
+   "title": "Từ 1.7.2027, đất nông nghiệp bỏ hoang 24 tháng bị thu hồi trong trường hợp nào?",
+   "summary": "Luật Đất đai sửa đổi bổ sung quy định về đất bỏ hoang, điều kiện thu hồi đất nông nghiệp không sử dụng và nghĩa vụ tài chính đối với các dự án chậm đưa đất vào sử dụng.",
+   "sourceName": "Thanh Niên",
+   "sourceUrl": "https://thanhnien.vn/tu-172027-dat-nong-nghiep-bo-hoang-24-thang-bi-thu-hoi-trong-truong-hop-nao-185261126124005859.htm",
+   "publishedAt": "2026-11-26T06:38:00.000Z"
+  },
+  {
+   "id": "r397",
+   "category": "thoi-su",
+   "title": "TP Hồ Chí Minh mở rộng diện công trình được miễn giấy phép xây dựng",
+   "summary": "VTV.vn - Từ ngày 30/11, TP Hồ Chí Minh mở rộng diện miễn giấy phép xây dựng, bổ sung nhà ở riêng lẻ dưới 7 tầng, trạm sạc và tủ đổi pin.",
+   "sourceName": "VTV",
+   "sourceUrl": "https://vtv.vn/tp-ho-chi-minh-mo-rong-dien-cong-trinh-duoc-mien-giay-phep-xay-dung-100261126134050977.htm",
+   "publishedAt": "2026-11-26T08:09:00.000Z"
+  },
+  {
+   "id": "r435",
+   "category": "bat-dong-san",
+   "title": "TPHCM: Thêm 3 dự án nhà ở thương mại tiếp tục được cấp sổ hồng",
+   "summary": "Ngày 26-11, Tổ công tác 1645 do Giám đốc Sở Nông nghiệp - Môi trường TPHCM Nguyễn Toàn Thắng chủ trì đã làm việc với các chủ đầu tư để tháo gỡ vướng mắc, xem xét cấp sổ hồng cho người mua nhà tại 3 dự án nhà ở thương mại",
+   "sourceName": "CafeF",
+   "sourceUrl": "https://cafef.vn/tphcm-them-3-du-an-nha-o-thuong-mai-tiep-tuc-duoc-cap-so-hong-188261126151502508.chn",
+   "publishedAt": "2026-11-26T08:50:00.000Z"
+  },
+  {
+   "id": "r439",
+   "category": "bat-dong-san",
+   "title": "Siêu dự án đường sắt tốc độ cao 350km/h đi qua 15 tỉnh thành, vốn đầu tư 67 tỷ USD, dự kiến khởi công vào cuối năm 2028 có diễn biến mới",
+   "summary": "Đà Nẵng vừa phê duyệt thêm khu tái định cư gần 10 ha, vốn đầu tư hơn 121 tỷ đồng, nhằm phục vụ dự án đường sắt tốc độ cao Bắc - Nam.",
+   "sourceName": "CafeF",
+   "sourceUrl": "https://cafef.vn/sieu-du-an-duong-sat-toc-do-cao-350km-h-di-qua-15-tinh-thanh-von-dau-tu-67-ty-usd-du-kien-khoi-cong-vao-cuoi-nam-2028-co-dien-bien-moi-188261126144003271.chn",
+   "publishedAt": "2026-11-26T07:43:00.000Z"
+  },
+  {
+   "id": "r443",
+   "category": "bat-dong-san",
+   "title": "TPHCM miễn giấy phép xây dựng nhà ở dưới 7 tầng",
+   "summary": "Từ ngày 30/11, nhà ở riêng lẻ dưới 7 tầng, tổng diện tích sàn dưới 500m² tại các khu vực đáp ứng điều kiện quy hoạch ở TPHCM được miễn giấy phép xây dựng. Công trình thuộc diện này được xây dựng tối đa một tầng hầm theo ",
+   "sourceName": "CafeF",
+   "sourceUrl": "https://cafef.vn/tphcm-mien-giay-phep-xay-dung-nha-o-duoi-7-tang-188261126134038411.chn",
+   "publishedAt": "2026-11-26T07:40:00.000Z"
+  },
+  {
+   "id": "r10",
+   "category": "kinh-te",
+   "title": "Vì sao ông Trump áp thêm thuế nhập khẩu, bất chấp lạm phát?",
+   "summary": "Thuế nhập khẩu là công cụ hữu hiệu giúp Tổng thống Mỹ thể hiện quyền lực kinh tế khi đảng Cộng hòa không còn kiểm soát Quốc hội.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/vi-sao-ong-trump-ap-them-thue-nhap-khau-bat-chap-lam-phat-5149098.html",
+   "publishedAt": "2026-11-26T04:58:21.000Z"
+  },
+  {
+   "id": "r30",
+   "category": "thoi-su",
+   "title": "Hơn 1.400 tỷ đồng cải tạo đường băng sân bay Đà Nẵng",
+   "summary": "Đường băng phía Tây sân bay Đà Nẵng dài hơn 3 km sẽ được cải tạo, xây thêm các đường lăn với tổng vốn đầu tư 1.427 tỷ đồng, dự kiến hoàn thành năm 2028.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/hon-1-400-ty-dong-cai-tao-duong-bang-san-bay-da-nang-5148984.html",
+   "publishedAt": "2026-11-26T02:07:55.000Z"
+  },
+  {
+   "id": "r64",
+   "category": "the-gioi",
+   "title": "Các nước phản ứng với đề xuất áp thêm thuế lên 14 nền kinh tế của Mỹ",
+   "summary": "Nhiều nước phản đối Mỹ đề xuất áp thêm mức thuế mới, cho rằng không tồn tại tình trạng \"dư thừa công suất\" như đánh giá của USTR.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/cac-nuoc-phan-ung-voi-de-xuat-ap-them-thue-len-14-nen-kinh-te-cua-my-5149013.html",
+   "publishedAt": "2026-11-26T03:43:43.000Z"
+  },
+  {
+   "id": "r84",
+   "category": "kinh-te",
+   "title": "Shopee triển khai sáng kiến quảng bá và kết nối hàng Việt",
+   "summary": "Khởi động ngày 1-12, sáng kiến “Shopee Hàng Việt” mở thêm kênh giới thiệu sản phẩm nội địa, đồng thời tạo cơ hội để thương hiệu và nhà bán hàng trong nước tiếp cận người tiêu dùng.",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/shopee-trien-khai-sang-kien-quang-ba-va-ket-noi-hang-viet-100261126172743113.htm",
+   "publishedAt": "2026-11-26T11:00:00.000Z"
+  },
+  {
+   "id": "r95",
+   "category": "kinh-te",
+   "title": "Sân bay Liên Khương - Đà Lạt mở thêm cửa đón khách quốc tế",
+   "summary": "Sân bay Liên Khương sẽ có thêm đường bay quốc tế, kết nối Đà Lạt với Singapore, Hàn Quốc và nhiều nước khác.",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/san-bay-lien-khuong-da-lat-mo-them-cua-don-khach-quoc-te-100261126162037378.htm",
+   "publishedAt": "2026-11-26T09:50:00.000Z"
+  },
+  {
+   "id": "r104",
+   "category": "kinh-te",
+   "title": "Chút mặn xứ Huế 'nêm' vào văn hóa cà phê Việt",
+   "summary": "Hà Nội có cà phê trứng, Sài Gòn có cà phê sữa đá, còn Huế có cà phê muối. Ra đời từ một quán sân vườn nhỏ khoảng năm 2010, ly cà phê mang chút mặn này đã đi khắp cả nước, góp thêm một vị mới cho văn hóa cà phê Việt.",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/chut-man-xu-hue-nem-vao-van-hoa-ca-phe-viet-100261124145851615.htm",
+   "publishedAt": "2026-11-26T07:30:00.000Z"
+  },
+  {
+   "id": "r107",
+   "category": "kinh-te",
+   "title": "Chuỗi cung ứng vonfram cần thêm năng lực chế biến",
+   "summary": "Nguồn cung vonfram toàn cầu đối mặt nguy cơ gián đoạn khi năng lực khai thác, khả năng tiếp cận nguyên liệu chưa theo kịp nhu cầu. Trong bối cảnh đó, Masan High-Tech Materials (MSR) đang mở rộng năng lực chế biến và kết ",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/chuoi-cung-ung-vonfram-can-them-nang-luc-che-bien-100261126123704911.htm",
+   "publishedAt": "2026-11-26T07:09:00.000Z"
+  },
+  {
+   "id": "r108",
+   "category": "kinh-te",
+   "title": "Đề xuất vé số Tết 20.000 đồng/tờ, bạn đọc nói 'tăng thêm tiền thưởng sẽ thích hơn'",
+   "summary": "Đề xuất tăng mệnh giá vé số Tết 2027 lên 20.000 đồng/vé cho 4 kỳ vé Xuân Đinh Mùi đang nhận nhiều ý kiến trái chiều.",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/de-xuat-ve-so-tet-20000-dong-to-ban-doc-noi-tang-them-tien-thuong-se-thich-hon-100261126120835182.htm",
+   "publishedAt": "2026-11-26T07:09:00.000Z"
+  },
+  {
+   "id": "r124",
+   "category": "thoi-su",
+   "title": "Cử tri Đắk Lắk: Cao tốc Bắc - Nam xong nhiều tháng, nhưng chưa bồi thường, hỗ trợ dứt điểm cho dân",
+   "summary": "Cử tri khu vực phía Đông Đắk Lắk kiến nghị khắc phục sạt lở đất sản xuất, bồi thường thiệt hại, đền bù do thi công cao tốc Bắc - Nam; tháo gỡ khó khăn sau sáp nhập điểm trường...",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/cu-tri-dak-lak-cao-toc-bac-nam-xong-nhieu-thang-nhung-chua-boi-thuong-ho-tro-dut-diem-cho-dan-100261126182415554.htm",
+   "publishedAt": "2026-11-26T12:48:00.000Z"
+  },
+  {
+   "id": "r140",
+   "category": "thoi-su",
+   "title": "Mưa hiếm gặp, dồn dập 522mm trong 24 giờ, đảo Lý Sơn ngập nặng",
+   "summary": "Mưa hiếm gặp, hơn 522mm trong 24 giờ, khiến hơn 100ha đất nông nghiệp, chủ yếu trồng tỏi, trên đặc khu Lý Sơn bị ngập úng. Nhiều tuyến đường, kênh mương hư hỏng, đất đá bồi lấp.",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/mua-hiem-gap-don-dap-522mm-trong-24-gio-dao-ly-son-ngap-nang-100261126171922703.htm",
+   "publishedAt": "2026-11-26T10:53:00.000Z"
+  },
+  {
+   "id": "r205",
+   "category": "cong-nghe",
+   "title": "Malaysia kiện Google yêu cầu bồi thường gần 146 triệu USD, vì sao?",
+   "summary": "Ngày 25-11, Ủy ban Truyền thông và Đa phương tiện Malaysia (MCMC) cho biết đã khởi kiện Google trong hai vụ riêng biệt, theo đó yêu cầu bồi thường tổng cộng 600 triệu ringgit (gần 146 triệu USD).",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/malaysia-kien-google-yeu-cau-boi-thuong-gan-146-trieu-usd-vi-sao-100261126082020519.htm",
+   "publishedAt": "2026-11-26T02:15:00.000Z"
+  },
+  {
+   "id": "r308",
+   "category": "cong-nghe",
+   "title": "Chọn Starlink hay internet 5G để tiết kiệm chi phí?",
+   "summary": "Một thử nghiệm thực tế cho thấy internet 5G có thể nhanh hơn Starlink, trong khi dịch vụ vệ tinh vẫn giữ lợi thế về độ trễ.",
+   "sourceName": "Thanh Niên",
+   "sourceUrl": "https://thanhnien.vn/chon-starlink-hay-internet-5g-de-tiet-kiem-chi-phi-185261029005902129.htm",
+   "publishedAt": "2026-11-26T10:18:00.000Z"
+  },
+  {
+   "id": "r407",
+   "category": "bat-dong-san",
+   "title": "Miền Bắc sắp đón thêm hơn 1,6 triệu m² nhà xưởng và nhà kho xây sẵn giai đoạn 2026 - 2028",
+   "summary": "Thị trường bất động sản công nghiệp miền Bắc đang bước vào chu kỳ mở rộng quy mô lớn với gần 965.000 m² nhà xưởng (RBF) và 692.000 m² nhà kho xây sẵn (RBW) dự kiến gia nhập đến năm 2028. Bên cạnh hai cực tăng trưởng chín",
+   "sourceName": "CafeF",
+   "sourceUrl": "https://cafef.vn/mien-bac-sap-don-them-hon-16-trieu-m-nha-xuong-va-nha-kho-xay-san-giai-doan-2026-2028-188261127063957.chn",
+   "publishedAt": "2026-11-27T01:24:00.000Z"
+  },
+  {
+   "id": "r412",
+   "category": "bat-dong-san",
+   "title": "Đất vi phạm đã đăng ký biến động có được thực hiện quyền chuyển nhượng, thế chấp?",
+   "summary": "Bộ Nông nghiệp và Môi trường vừa giải đáp vướng mắc về việc thực hiện quyền của người sử dụng đất đối với trường hợp đất sử dụng sai mục đích trước ngày 1/7/2014, đã được cấp Giấy chứng nhận, xử lý vi phạm và hoàn thành ",
+   "sourceName": "CafeF",
+   "sourceUrl": "https://cafef.vn/dat-vi-pham-da-dang-ky-bien-dong-co-duoc-thuc-hien-quyen-chuyen-nhuong-the-chap-18826112706582571.chn",
+   "publishedAt": "2026-11-27T00:58:00.000Z"
+  },
+  {
+   "id": "r38",
+   "category": "the-gioi",
+   "title": "Kỹ thuật viên phòng không Italy thiệt mạng vì 'UAV Iran'",
+   "summary": "Italy thông báo 2 kỹ thuật viên phòng không thiệt mạng tại Kuwait, được cho là trong đòn tập kích UAV của Iran nhằm vào nước này.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/ky-thuat-vien-phong-khong-italy-thiet-mang-vi-uav-iran-5149391.html",
+   "publishedAt": "2026-11-27T01:00:01.000Z"
+  },
+  {
+   "id": "r39",
+   "category": "the-gioi",
+   "title": "Tổng thống Trump nghi ngờ số liệu GDP Mỹ 'bị làm giả'",
+   "summary": "Tổng thống Trump cáo buộc số liệu GDP Mỹ bị làm giả nhằm tác động đến bầu cử và yêu cầu điều tra, song không đưa ra bằng chứng.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/tong-thong-trump-nghi-ngo-so-lieu-gdp-my-bi-lam-gia-5149390.html",
+   "publishedAt": "2026-11-27T00:21:52.000Z"
+  },
+  {
+   "id": "r40",
+   "category": "the-gioi",
+   "title": "Nga bàn giao 250 thi thể quân nhân cho Ukraine",
+   "summary": "Ukraine thông báo Nga đã bàn giao cho nước này 250 thi thể quân nhân và nhận lại 22 tử sĩ.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/nga-ban-giao-250-thi-the-quan-nhan-cho-ukraine-5149363.html",
+   "publishedAt": "2026-11-26T23:31:32.000Z"
+  },
+  {
+   "id": "r41",
+   "category": "the-gioi",
+   "title": "Nỗ lực tháo 'ngòi nổ' hạt nhân trên biển Baltic",
+   "summary": "Lo ngại căng thẳng với Nga ở biển Baltic vượt tầm kiểm soát, hai lãnh đạo Bắc Âu đã tìm cách điện đàm với ông Putin để \"tháo ngòi nổ\".",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/no-luc-thao-ngoi-no-hat-nhan-tren-bien-baltic-5148947.html",
+   "publishedAt": "2026-11-26T22:00:00.000Z"
+  },
+  {
+   "id": "r42",
+   "category": "the-gioi",
+   "title": "S-400 Nga 'chặn đòn tập kích tên lửa Neptune' nhằm vào Crimea",
+   "summary": "Hệ thống phòng không S-300/S-400 Nga được cho là đã bắn hạ toàn bộ tên lửa hành trình Neptune Ukraine phóng nhằm vào bán đảo Crimea.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/s-400-nga-chan-don-tap-kich-ten-lua-neptune-nham-vao-crimea-5149283.html",
+   "publishedAt": "2026-11-26T14:45:32.000Z"
+  },
+  {
+   "id": "r166",
+   "category": "cong-nghe",
+   "title": "Mở hộp bộ thiết bị Internet vệ tinh Starlink tại Việt Nam",
+   "summary": "Bộ thu phát sóng Starlink Mini và Standard X có tốc độ truyền tải dữ liệu đến 400 Mbps, tích hợp Wi-Fi 5 hoặc 6, dễ dàng lắp đặt.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/mo-hop-bo-thiet-bi-internet-ve-tinh-starlink-tai-viet-nam-5149404.html",
+   "publishedAt": "2026-11-27T00:53:47.000Z"
+  },
+  {
+   "id": "r167",
+   "category": "cong-nghe",
+   "title": "Nhiều trang web mất khách vì Google 'trả lời thay'",
+   "summary": "Chế độ AI Mode trả lời ngay trên trang tìm kiếm Google khiến người dùng ít bấm vào đường link, làm lung lay mô hình \"Google gửi khách, web kiếm tiền\" tồn tại hơn hai thập kỷ.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/nhieu-trang-web-mat-khach-vi-google-tra-loi-thay-5148929.html",
+   "publishedAt": "2026-11-26T22:00:00.000Z"
+  },
+  {
+   "id": "r168",
+   "category": "cong-nghe",
+   "title": "10 năm nhà khoa học Việt tìm cách đưa máy chiếu tia plasma vào ứng dụng",
+   "summary": "Nhóm sáng lập Công ty Plasma Việt Nam phát triển thành công máy plasma lạnh hỗ trợ điều trị vết thương, dành nhiều năm chứng minh hiệu quả để thương mại hóa sản phẩm.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/10-nam-nha-khoa-hoc-viet-tim-cach-dua-may-chieu-tia-plasma-vao-ung-dung-5144994.html",
+   "publishedAt": "2026-11-26T17:00:00.000Z"
+  },
+  {
+   "id": "r169",
+   "category": "cong-nghe",
+   "title": "Laptop '2 trong 1' giá gần 40 triệu đồng",
+   "summary": "Lenovo IdeaPad 5i có màn hình cảm ứng mở 360 độ để dùng như máy tính bảng hoặc bảng vẽ, nhưng khá dày.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/laptop-2-trong-1-gia-gan-40-trieu-dong-5148177.html",
+   "publishedAt": "2026-11-27T01:10:52.000Z"
+  }
+ ],
+ "stats": {
+  "rawCollected": 576,
+  "afterDedupe": 516,
+  "legalDeepAnalyzed": 0,
+  "durationSec": 17
+ }
+}
