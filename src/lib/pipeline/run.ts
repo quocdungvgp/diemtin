@@ -180,6 +180,8 @@ export async function runDailyBriefing(opts: RunOptions = {}): Promise<DailyBrie
 function keywordTriage(items: RawArticle[]): Map<string, TriageResult> {
   const ADS = /(mở bán|giá chỉ từ|chiết khấu|booking|nhận giữ chỗ|căn hộ mẫu|ưu đãi khủng)/i;
   const CHI_DAO = /(ubnd tp|chủ tịch ubnd|chỉ đạo|yêu cầu các sở|sở xây dựng|sở nông nghiệp)/i;
+  // văn bản của tỉnh/thành khác (không phải TP.HCM) → bỏ; văn bản trung ương giữ
+  const OTHER_LOCAL = /(ủy ban nhân dân|ubnd|hội đồng nhân dân|hđnd)\s+(tỉnh|thành phố|tp\.?)\s+(?!hồ chí minh|hcm|tp\.?\s*hcm)/i;
   const m = new Map<string, TriageResult>();
   for (const a of items) {
     const isAd = ADS.test(a.title);
@@ -193,7 +195,7 @@ function keywordTriage(items: RawArticle[]): Map<string, TriageResult> {
             : "tin-tuc";
     m.set(a.id, {
       id: a.id,
-      keep: !isAd && (a.stream === "news" || a.kwPillars.length > 0 || a.looksLikeDoc),
+      keep: !isAd && !(a.stream === "legal" && OTHER_LOCAL.test(a.title)) && (a.stream === "news" || a.kwPillars.length > 0 || a.looksLikeDoc),
       kind,
       category: (a.category && a.category !== "phap-ly" ? a.category : null) as TriageResult["category"],
       pillars: a.kwPillars,

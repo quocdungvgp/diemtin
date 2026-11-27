@@ -49,15 +49,15 @@ export const DEFAULT_SOURCES: SourceConfig[] = [
 
   // ───── LUỒNG 2: PHÁP LÝ CHUYÊN SÂU TP.HCM ─────
   // Bài phân tích (RSS)
-  { name: "Pháp Luật TP.HCM", url: "https://plo.vn/rss/phap-luat-3.rss", kind: "rss", stream: "legal", category: "phap-ly" },
-  { name: "Pháp Luật TP.HCM", url: "https://plo.vn/rss/bat-dong-san-11.rss", kind: "rss", stream: "legal", category: "phap-ly" },
-  { name: "Báo Xây Dựng", url: "https://baoxaydung.vn/rss/chinh-sach.rss", kind: "rss", stream: "legal", category: "phap-ly" },
+  // TẮT 27/11/2026 (404/403/lỗi TLS khi chạy tự động — Claude rà tay lúc 08:31): { name: "Pháp Luật TP.HCM", url: "https://plo.vn/rss/phap-luat-3.rss", kind: "rss", stream: "legal", category: "phap-ly" },
+  // TẮT 27/11/2026 (404/403/lỗi TLS khi chạy tự động — Claude rà tay lúc 08:31): { name: "Pháp Luật TP.HCM", url: "https://plo.vn/rss/bat-dong-san-11.rss", kind: "rss", stream: "legal", category: "phap-ly" },
+  // TẮT 27/11/2026 (404/403/lỗi TLS khi chạy tự động — Claude rà tay lúc 08:31): { name: "Báo Xây Dựng", url: "https://baoxaydung.vn/rss/chinh-sach.rss", kind: "rss", stream: "legal", category: "phap-ly" },
   // Văn bản gốc (HTML list) — selector để trống = heuristic: lấy mọi link có số hiệu văn bản / từ khoá trụ cột
   { name: "Công báo TP.HCM", url: "https://congbao.hochiminhcity.gov.vn", kind: "html", stream: "legal", category: "phap-ly" },
   { name: "Cổng TTĐT Chính phủ — Văn bản", url: "https://vanban.chinhphu.vn/he-thong-van-ban", kind: "html", stream: "legal", category: "phap-ly" },
-  { name: "Bộ Xây dựng — Văn bản", url: "https://moc.gov.vn/vn/pages/vanbanphapquy.aspx", kind: "html", stream: "legal", category: "phap-ly" },
-  { name: "Bộ Nông nghiệp & Môi trường — Văn bản", url: "https://mae.gov.vn/van-ban", kind: "html", stream: "legal", category: "phap-ly" },
-  { name: "Sở Xây dựng TP.HCM", url: "https://soxaydung.hochiminhcity.gov.vn", kind: "html", stream: "legal", category: "phap-ly" },
-  { name: "Thư Viện Pháp Luật — Văn bản mới", url: "https://thuvienphapluat.vn/van-ban-moi", kind: "html", stream: "legal", category: "phap-ly" },
+  // TẮT 27/11/2026 (404/403/lỗi TLS khi chạy tự động — Claude rà tay lúc 08:31): { name: "Bộ Xây dựng — Văn bản", url: "https://moc.gov.vn/vn/pages/vanbanphapquy.aspx", kind: "html", stream: "legal", category: "phap-ly" },
+  // TẮT 27/11/2026 (404/403/lỗi TLS khi chạy tự động — Claude rà tay lúc 08:31): { name: "Bộ Nông nghiệp & Môi trường — Văn bản", url: "https://mae.gov.vn/van-ban", kind: "html", stream: "legal", category: "phap-ly" },
+  // TẮT 27/11/2026 (404/403/lỗi TLS khi chạy tự động — Claude rà tay lúc 08:31): { name: "Sở Xây dựng TP.HCM", url: "https://soxaydung.hochiminhcity.gov.vn", kind: "html", stream: "legal", category: "phap-ly" },
+  // TẮT 27/11/2026 (404/403/lỗi TLS khi chạy tự động — Claude rà tay lúc 08:31): { name: "Thư Viện Pháp Luật — Văn bản mới", url: "https://thuvienphapluat.vn/van-ban-moi", kind: "html", stream: "legal", category: "phap-ly" },
   { name: "LuatVietnam — Văn bản mới", url: "https://luatvietnam.vn/van-ban-moi.html", kind: "html", stream: "legal", category: "phap-ly" },
 ];
