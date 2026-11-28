@@ -67,7 +67,7 @@ export function BriefingLoader() {
         <div className="max-w-md space-y-3">
           <Clock className="mx-auto size-10 text-red-800" />
           <h1 className="text-xl font-bold">Chưa có bản tin ngày {formatDateVN(state.date)}</h1>
-          <p className="text-sm text-zinc-500">Hệ thống tự chạy lúc 08:00 và cập nhật phiếu phân tích trước 09:00 mỗi sáng.</p>
+          <p className="text-sm text-zinc-500">Hệ thống tự thu thập từ sáng sớm và cập nhật phiếu phân tích trước 09:00 mỗi sáng.</p>
           {state.latest && (
             <Link href={`/?date=${state.latest}&view=${view}`} className="inline-block rounded-md bg-zinc-900 px-4 py-2 text-sm text-white">
               Xem bản tin mới nhất ({formatDateVN(state.latest)})

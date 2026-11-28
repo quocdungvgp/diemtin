@@ -1,5 +1,5 @@
 /**
- * Chạy pipeline 1 lần và ghi ra public/data (GitHub Actions gọi lúc 08:00 VN).
+ * Chạy pipeline 1 lần và ghi ra public/data (GitHub Actions gọi lúc ~06:17 VN).
  *   npm run briefing:build                 → hôm nay
  *   npm run briefing:build -- 2026-11-27   → ngày chỉ định
  * AI_PROVIDER: none (mặc định trên GitHub) | ollama | anthropic

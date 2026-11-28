@@ -1,14 +1,18 @@
 # Hướng dẫn cho Claude — bổ sung Phiếu Tóm Tắt Tác Động (chạy 08:31 mỗi sáng)
 
-Lúc 08:00 GitHub Actions đã cào tin và lọc theo từ khoá vào `public/data/briefings/<YYYY-MM-DD>.json`
+Lúc ~06:17 (cron 23:17 UTC, GitHub có thể trễ vài tiếng) GitHub Actions đã cào tin và lọc theo từ khoá vào `public/data/briefings/<YYYY-MM-DD>.json`
 (giờ VN). Nhiệm vụ: biến danh sách thô thành bản tin chuyên môn trước 09:00 rồi đẩy lên GitHub
 (Cloudflare Pages tự deploy).
 
 ## Các bước
 
 1. `git pull`. Ngày hôm nay theo giờ VN: `TZ=Asia/Ho_Chi_Minh date +%F`.
-2. Chưa có file của hôm nay: chờ rồi `git pull` lại mỗi 2 phút, tối đa 20 phút. Vẫn chưa có thì báo lại
-   (GitHub Actions trễ hoặc lỗi) và dừng.
+2. Chưa có file của hôm nay:
+   - Xem các lần chạy workflow `diem-tin-0800.yml` (GitHub MCP `actions_list`). Nếu hôm nay chưa có lần
+     chạy nào đang chạy/đã xong → tự gọi `workflow_dispatch` (GitHub MCP `actions_run_trigger`, ref `main`,
+     input `date` = ngày hôm nay) — chạy ngay, không phải xếp hàng như cron.
+   - Rồi `git pull` lại mỗi 2 phút, tối đa 20 phút. Vẫn chưa có (hoặc lần chạy thất bại — xem log bằng
+     `get_job_logs`) thì báo lại kèm lý do và dừng.
 3. Đọc file. Cấu trúc ở `src/lib/types.ts` (DailyBriefing, LegalDocument, PillarAnalysis); 6 trụ cột ở
    `src/lib/pillars.ts`.
 4. Mỗi phần tử `legalDocuments` có `enriched: false`:

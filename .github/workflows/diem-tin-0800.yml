@@ -2,7 +2,7 @@ name: Điểm tin 08:00
 
 on:
   schedule:
-    - cron: "0 1 * * *" # 01:00 UTC = 08:00 giờ VN (GitHub có thể trễ 5–20 phút)
+    - cron: "17 23 * * *" # 23:17 UTC = 06:17 giờ VN. Tránh phút chẵn (giờ cao điểm); GitHub có thể trễ vài tiếng, Claude 08:31 sẽ tự gọi workflow_dispatch nếu chưa có file
   workflow_dispatch:
     inputs:
       date:

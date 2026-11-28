@@ -3,7 +3,7 @@
 Web tĩnh, không server, không API key:
 
 ```
-08:00  GitHub Actions ──► cào RSS báo + Công báo/Chính phủ ──► lọc 6 trụ cột theo từ khoá
+06:17  GitHub Actions ──► cào RSS báo + Công báo/Chính phủ ──► lọc 6 trụ cột theo từ khoá
                          ──► public/data/briefings/<ngày>.json ──► push ──► Cloudflare Pages deploy
 08:31  Tác vụ đã lên lịch của Claude ──► đọc văn bản gốc ──► viết Phiếu tóm tắt tác động (cũ↔mới,
                          đối tượng, hành động, trích dẫn) ──► finalize ──► push ──► deploy lại
