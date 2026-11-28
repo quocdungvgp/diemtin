@@ -2,14 +2,14 @@
  {
   "date": "2026-11-28",
   "generatedAt": "2026-11-28T08:41:13.051Z",
-  "enriched": false,
+  "enriched": true,
   "kpis": {
-   "totalNewDocs": 0,
-   "xpxdHoanCong": 0,
-   "gcn": 0,
-   "tieuChuan": 0,
-   "gpmb": 0,
-   "nhaO": 0,
+   "totalNewDocs": 3,
+   "xpxdHoanCong": 1,
+   "gcn": 1,
+   "tieuChuan": 1,
+   "gpmb": 2,
+   "nhaO": 2,
    "totalNews": 30
   }
  },

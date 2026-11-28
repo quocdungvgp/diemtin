@@ -2,18 +2,309 @@
  "date": "2026-11-28",
  "generatedAt": "2026-11-28T08:41:13.051Z",
  "publishAt": "2026-11-28T02:00:00.000Z",
- "aiProvider": "none",
+ "aiProvider": "claude-task",
  "kpis": {
-  "totalNewDocs": 0,
-  "xpxdHoanCong": 0,
-  "gcn": 0,
-  "tieuChuan": 0,
-  "gpmb": 0,
-  "nhaO": 0,
+  "totalNewDocs": 3,
+  "xpxdHoanCong": 1,
+  "gcn": 1,
+  "tieuChuan": 1,
+  "gpmb": 2,
+  "nhaO": 2,
   "totalNews": 30
  },
- "legalDocuments": [],
- "analyses": [],
+ "legalDocuments": [
+  {
+   "id": "doc-1",
+   "docNumber": "Luật Đất đai (sửa đổi) — chưa công bố số hiệu",
+   "title": "Luật Đất đai (sửa đổi)",
+   "docType": "Luật",
+   "issuer": "Quốc hội khóa XVI",
+   "issueDate": "2026-11-21",
+   "effectiveDate": "2027-07-01",
+   "status": "sap-hieu-luc",
+   "isHot": true,
+   "pillars": [
+    "gcn",
+    "gpmb",
+    "nha-o"
+   ],
+   "summary": "Quốc hội thông qua sáng 21/11/2026 (466/479 đại biểu tán thành), gồm 13 chương, 112 điều, hiệu lực từ 01/7/2027 (trừ khoản 4, 5 Điều 109). Điểm đáng chú ý theo báo chí: đất chưa có GCN nhưng đủ điều kiện cấp vẫn được tách, hợp thửa; mở rộng diện xem xét cấp GCN cho người nhận chuyển nhượng trước 01/8/2024 chưa làm thủ tục; bảng giá đất theo luật mới áp dụng từ 01/01/2028, đến hết 31/12/2027 vẫn theo Luật Đất đai 2024 và Nghị quyết 254. Chưa có toàn văn chính thức — điều khoản cần đối chiếu khi Công báo đăng.",
+   "impactBullets": [
+    "Từ 1/7/2027: đủ điều kiện cấp GCN là được tách/hợp thửa, không cần có sổ trước",
+    "Nhận chuyển nhượng trước 1/8/2024 chưa sang tên: được mở rộng diện xét cấp GCN",
+    "Bảng giá đất mới từ 1/1/2028; dự toán bồi thường 2027 vẫn theo luật 2024"
+   ],
+   "relatedDocs": [
+    {
+     "docNumber": "Luật Đất đai 2024 (số 31/2024/QH15)",
+     "relation": "sua-doi",
+     "note": "Quan hệ thay thế/sửa đổi chính xác cần đối chiếu toàn văn"
+    },
+    {
+     "docNumber": "Nghị quyết số 254 (về giá đất, chuyển tiếp)",
+     "relation": "dan-chieu",
+     "note": "Tiếp tục áp dụng đến hết 31/12/2027 — số hiệu đầy đủ cần đối chiếu"
+    }
+   ],
+   "affectedSubjects": [
+    "Hộ gia đình, cá nhân có đất chưa được cấp GCN muốn tách/hợp thửa tại TP.HCM",
+    "Người mua đất giấy tay/nhận chuyển nhượng trước 01/8/2024 chưa sang tên",
+    "Văn phòng đăng ký đất đai, UBND phường/xã (thẩm tra tách thửa, cấp GCN lần đầu)",
+    "Ban QLDA, tổ chức làm nhiệm vụ bồi thường (áp giá đất giai đoạn chuyển tiếp)"
+   ],
+   "comparisons": [
+    {
+     "topic": "Điều kiện tách, hợp thửa",
+     "oldRule": "Phải có Giấy chứng nhận (theo VnExpress)",
+     "newRule": "Có GCN hoặc đủ điều kiện được cấp GCN; còn thời hạn sử dụng, không tranh chấp, không bị kê biên, bảo đảm lối đi; tách thửa phải đạt diện tích tối thiểu theo quy định UBND cấp tỉnh",
+     "article": "Chưa xác định — cần đối chiếu"
+    },
+    {
+     "topic": "Hợp thửa trong khu dân cư",
+     "oldRule": "Chưa xác định từ nội dung văn bản",
+     "newRule": "Không bắt buộc cùng loại đất, hình thức giao/cho thuê và thời hạn sử dụng đất",
+     "article": "Chưa xác định — cần đối chiếu"
+    },
+    {
+     "topic": "Bảng giá đất",
+     "oldRule": "Luật Đất đai 2024 và Nghị quyết 254",
+     "newRule": "Bảng giá đất, hệ số điều chỉnh theo luật mới áp dụng từ 01/01/2028; đến hết 31/12/2027 tiếp tục áp dụng quy định cũ cho trường hợp chuyển tiếp",
+     "article": "Chưa xác định — cần đối chiếu"
+    }
+   ],
+   "actionItems": [
+    {
+     "action": "Rà hồ sơ tách thửa đang vướng do chưa có GCN, chuẩn bị hồ sơ đủ điều kiện cấp GCN để nộp từ 01/7/2027",
+     "target": "Người sử dụng đất / đơn vị tư vấn hồ sơ",
+     "deadline": "2027-07-01"
+    },
+    {
+     "action": "Theo dõi quy định diện tích tối thiểu tách thửa mới của UBND TP.HCM ban hành theo luật sửa đổi",
+     "target": "VP đăng ký đất đai, UBND phường/xã"
+    },
+    {
+     "action": "Phương án bồi thường lập trong năm 2027 tiếp tục áp bảng giá theo Luật 2024 + NQ 254; dự trù thay đổi từ 01/01/2028",
+     "target": "Ban QLDA, tổ bồi thường"
+    }
+   ],
+   "keyQuotes": [],
+   "sourceName": "LuatVietnam; VnExpress",
+   "sourceUrl": "https://luatvietnam.vn/tin-van-ban-moi/quoc-hoi-thong-qua-luat-dat-dai-sua-doi-hieu-luc-tu-01-7-2027-186-116025-article.html",
+   "enriched": true
+  },
+  {
+   "id": "doc-2",
+   "docNumber": "Luật Nhà ở (sửa đổi) — chưa công bố số hiệu",
+   "title": "Luật Nhà ở (sửa đổi)",
+   "docType": "Luật",
+   "issuer": "Quốc hội khóa XVI",
+   "issueDate": "2026-11-21",
+   "effectiveDate": "2027-07-01",
+   "status": "sap-hieu-luc",
+   "isHot": true,
+   "pillars": [
+    "nha-o",
+    "gpmb"
+   ],
+   "summary": "Quốc hội thông qua ngày 21/11/2026, hiệu lực từ 01/7/2027. Lần đầu định nghĩa chung cư cũ là công trình xây từ năm 1994 trở về trước; chủ căn hộ chung cư cũ không tự góp tiền cải tạo mà được chọn bồi thường bằng nhà tái định cư, nhà ở xã hội, tiền hoặc quyền sử dụng đất, vẫn tính theo hệ số K. Không chọn được chủ đầu tư qua hội nghị nhà chung cư thì UBND cấp tỉnh giao. Chung cư xây sau 1994 được góp chi phí để tự cải tạo hoặc chuyển quyền. Chưa có toàn văn chính thức — điều khoản cần đối chiếu khi Công báo đăng.",
+   "impactBullets": [
+    "Chung cư xây từ 1994 trở về trước: chọn 1 trong 4 hình thức bồi thường, theo hệ số K",
+    "Không chọn được chủ đầu tư: UBND TP giao, tránh dự án treo",
+    "Phương án bồi thường phải nêu hệ số K, giá đất, chênh lệch, tiền thuê nhà tạm"
+   ],
+   "relatedDocs": [
+    {
+     "docNumber": "Luật Nhà ở 2023 (số 27/2023/QH15)",
+     "relation": "sua-doi",
+     "note": "Quan hệ thay thế/sửa đổi chính xác cần đối chiếu toàn văn"
+    },
+    {
+     "docNumber": "Nghị định hướng dẫn hệ số K (VnExpress ghi NĐ 94, Tiền Phong ghi NĐ 98/2024)",
+     "relation": "dan-chieu",
+     "note": "Hai nguồn báo ghi khác nhau — cần đối chiếu"
+    }
+   ],
+   "affectedSubjects": [
+    "Chủ sở hữu căn hộ chung cư cũ tại TP.HCM (đặc biệt xây từ 1994 trở về trước)",
+    "Chủ đầu tư dự án cải tạo, xây dựng lại chung cư",
+    "UBND TP.HCM, Sở Xây dựng, đơn vị lập phương án bồi thường, bố trí chỗ ở tạm"
+   ],
+   "comparisons": [
+    {
+     "topic": "Hình thức bồi thường chủ căn hộ chung cư cũ",
+     "oldRule": "Chưa xác định từ nội dung văn bản (báo chí cho biết luật mới thêm nhà ở xã hội và quyền sử dụng đất)",
+     "newRule": "Chọn 1 trong 4: nhà ở tái định cư, nhà ở xã hội, tiền, quyền sử dụng đất",
+     "article": "Chưa xác định — cần đối chiếu"
+    },
+    {
+     "topic": "Hệ số K",
+     "oldRule": "Tầng 1: 1–2 lần; tầng 2 trở lên: 1–1,5 lần diện tích sử dụng ghi trong GCN",
+     "newRule": "Tiếp tục bồi thường theo hệ số K như hiện tại (khung mới chưa nêu)",
+     "article": "Chưa xác định — cần đối chiếu"
+    },
+    {
+     "topic": "Lựa chọn chủ đầu tư",
+     "oldRule": "Chưa xác định từ nội dung văn bản",
+     "newRule": "Hội nghị nhà chung cư chọn; không chọn được thì UBND cấp tỉnh giao chủ đầu tư",
+     "article": "Chưa xác định — cần đối chiếu"
+    }
+   ],
+   "actionItems": [
+    {
+     "action": "Rà danh mục chung cư xây từ 1994 trở về trước trên địa bàn, chuẩn bị mẫu phương án bồi thường 4 hình thức",
+     "target": "Sở Xây dựng, UBND phường, Ban QLDA"
+    },
+    {
+     "action": "Bổ sung vào phương án bồi thường: hệ số K, giá đất tính bồi thường, giá căn tái định cư, khoản chênh lệch, kinh phí di dời, thuê nhà tạm",
+     "target": "Tổ chức làm nhiệm vụ bồi thường",
+     "deadline": "2027-07-01"
+    }
+   ],
+   "keyQuotes": [],
+   "sourceName": "VnExpress; Tiền Phong",
+   "sourceUrl": "https://vnexpress.net/cai-tao-chung-cu-cu-chu-can-ho-duoc-boi-thuong-the-nao-tu-giua-2027-5149304.html",
+   "enriched": true
+  },
+  {
+   "id": "doc-3",
+   "docNumber": "Luật sửa đổi Luật Quản lý vũ khí… và Luật PCCC & CNCH — chưa công bố số hiệu",
+   "title": "Luật sửa đổi, bổ sung một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ, Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ",
+   "docType": "Luật",
+   "issuer": "Quốc hội khóa XVI",
+   "issueDate": "2026-11-20",
+   "effectiveDate": "2027-03-01",
+   "status": "sap-hieu-luc",
+   "isHot": false,
+   "pillars": [
+    "hoan-cong",
+    "tieu-chuan"
+   ],
+   "summary": "Quốc hội thông qua chiều 20/11/2026, hiệu lực từ 01/3/2027. Luật hóa việc bãi bỏ thủ tục kiểm tra công tác nghiệm thu PCCC (sửa Điều 18 Luật PCCC và CNCH 2024): chủ đầu tư tự tổ chức thi công, nghiệm thu theo thiết kế PCCC đã thẩm định và chịu trách nhiệm, công an chuyển sang hậu kiểm theo rủi ro. Bỏ thủ tục phục hồi hoạt động sau tạm đình chỉ và cấp phép trước lưu thông với phương tiện PCCC. Thẩm định thiết kế PCCC vẫn giữ. Chưa có toàn văn chính thức — điều khoản cần đối chiếu khi Công báo đăng.",
+   "impactBullets": [
+    "Từ 1/3/2027 bỏ hẳn thủ tục công an kiểm tra nghiệm thu PCCC",
+    "Chủ đầu tư tự nghiệm thu PCCC theo thiết kế đã thẩm định, chịu trách nhiệm",
+    "Hồ sơ hoàn công cần lưu đủ biên bản nghiệm thu PCCC từng phần cho hậu kiểm"
+   ],
+   "relatedDocs": [
+    {
+     "docNumber": "Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ 2024",
+     "relation": "sua-doi",
+     "note": "Sửa Điều 18 về nghiệm thu, kiểm tra công tác nghiệm thu PCCC"
+    },
+    {
+     "docNumber": "Nghị quyết của Chính phủ áp dụng từ 01/7/2026 (Báo Chính phủ ghi số 66.18/2026/NQ-CP)",
+     "relation": "dan-chieu",
+     "note": "Số hiệu chưa kiểm chứng — cần đối chiếu"
+    }
+   ],
+   "affectedSubjects": [
+    "Chủ đầu tư công trình thuộc diện thẩm định thiết kế PCCC tại TP.HCM",
+    "Nhà thầu thi công, tư vấn giám sát hệ thống PCCC",
+    "Cảnh sát PCCC & CNCH TP.HCM (chuyển sang hậu kiểm)"
+   ],
+   "comparisons": [
+    {
+     "topic": "Kiểm tra công tác nghiệm thu PCCC",
+     "oldRule": "Cơ quan công an kiểm tra kết quả nghiệm thu và ra văn bản chấp thuận (đã tạm dừng từ 01/7/2026 theo nghị quyết của Chính phủ)",
+     "newRule": "Bãi bỏ thủ tục; chủ đầu tư tự nghiệm thu theo từng phần, giai đoạn, hạng mục; bộ phận che khuất nghiệm thu trước bước thi công tiếp theo",
+     "article": "Điều 18 Luật PCCC và CNCH 2024 (sửa đổi)"
+    },
+    {
+     "topic": "Phục hồi hoạt động sau tạm đình chỉ",
+     "oldRule": "Phải chờ cơ quan có thẩm quyền cho phép",
+     "newRule": "Bỏ thủ tục phục hồi hoạt động với các trường hợp đình chỉ sau khi luật có hiệu lực",
+     "article": "Chưa xác định — cần đối chiếu"
+    }
+   ],
+   "actionItems": [
+    {
+     "action": "Cập nhật quy trình hoàn công: thay văn bản chấp thuận nghiệm thu PCCC bằng bộ biên bản tự nghiệm thu PCCC của chủ đầu tư",
+     "target": "Chủ đầu tư, tư vấn giám sát",
+     "deadline": "2027-03-01"
+    },
+    {
+     "action": "Chuẩn bị khai báo dữ liệu cơ sở và hồ sơ phục vụ kiểm tra định kỳ/đột xuất",
+     "target": "Chủ đầu tư, chủ cơ sở"
+    }
+   ],
+   "keyQuotes": [],
+   "sourceName": "Báo Chính phủ; Tuổi Trẻ; LuatVietnam",
+   "sourceUrl": "https://baochinhphu.vn/chuyen-tu-tien-kiem-sang-hau-kiem-ve-phong-chay-chua-chay-doanh-nghiep-duoc-gi-can-lam-gi-102261128101126268.htm",
+   "enriched": true
+  }
+ ],
+ "analyses": [
+  {
+   "id": "a-1",
+   "kind": "phan-tich",
+   "pillars": [
+    "xpxd",
+    "nha-o"
+   ],
+   "title": "TP.HCM mở rộng diện miễn giấy phép xây dựng nhà ở riêng lẻ ra sao?",
+   "summary": "Tuổi Trẻ phân tích cách TP.HCM dựa vào Luật Phát triển đô thị để mở rộng diện miễn GPXD nhà ở riêng lẻ rộng hơn Luật Xây dựng hiện hành. Đây là phần giải thích cho Quyết định 102/2026/QĐ-UBND (đã có phiếu trong bản tin 27/11), hiệu lực từ 30/11/2026. Điều kiện then chốt là khu vực đã có quy chế quản lý kiến trúc, quy hoạch chi tiết 1/500 hoặc thiết kế đô thị được duyệt.",
+   "keyPoints": [
+    "Nhà riêng lẻ dưới 7 tầng, tổng sàn dưới 500 m² được miễn GPXD nếu khu vực đủ điều kiện quy hoạch/kiến trúc",
+    "Căn cứ pháp lý: Luật Phát triển đô thị, bổ sung ngoài khoản 2 Điều 43 Luật Xây dựng 2025",
+    "Miễn phép vẫn phải thông báo khởi công và tuân thủ quy hoạch, PCCC, môi trường",
+    "Áp dụng từ 30/11/2026 — xem phiếu QĐ 102/2026/QĐ-UBND ngày 27/11"
+   ],
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/tphcm-mo-rong-dien-mien-giay-phep-xay-dung-nha-o-rieng-le-ra-sao-100261128085557256.htm",
+   "publishedAt": "2026-11-28T05:19:00.000Z"
+  },
+  {
+   "id": "a-2",
+   "kind": "phan-tich",
+   "pillars": [
+    "gcn"
+   ],
+   "title": "Đất chưa có sổ đỏ vẫn có thể tách thửa từ 1/7/2027",
+   "summary": "VnExpress tổng hợp quy định tách, hợp thửa trong Luật Đất đai (sửa đổi) vừa thông qua: từ 01/7/2027 đất chỉ cần đủ điều kiện cấp Giấy chứng nhận là được tách, hợp thửa. Vẫn phải còn thời hạn sử dụng, không tranh chấp, không bị kê biên, có lối đi và đạt diện tích tối thiểu do UBND cấp tỉnh quy định. Hợp thửa trong khu dân cư không bắt buộc cùng loại đất, thời hạn sử dụng.",
+   "keyPoints": [
+    "Bỏ điều kiện phải có GCN trước khi tách/hợp thửa",
+    "Diện tích tối thiểu tách thửa vẫn do UBND TP.HCM quy định",
+    "Không áp dụng điều kiện tách thửa khi Nhà nước thu hồi một phần thửa",
+    "Bài báo nhắc 'Luật Nhà ở (sửa đổi)' ở một đoạn — cần đối chiếu toàn văn Luật Đất đai"
+   ],
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/dat-chua-co-so-do-van-co-the-tach-thua-tu-1-7-2027-5149954.html",
+   "publishedAt": "2026-11-28T06:28:47.000Z"
+  },
+  {
+   "id": "a-3",
+   "kind": "chi-dao",
+   "pillars": [
+    "gpmb"
+   ],
+   "title": "TP.HCM rà kết quả tháo gỡ dự án; đẩy nhanh bồi thường mở rộng đường Tôn Thất Thuyết",
+   "summary": "Bản tin sáng 28/11 của Tuổi Trẻ nêu TP.HCM rà lại kết quả tháo gỡ vướng mắc các dự án và yêu cầu đẩy nhanh bồi thường dự án mở rộng đường Tôn Thất Thuyết. Đây là bước tiếp theo của Kế hoạch 664/KH-UBND về bồi thường, hỗ trợ, tái định cư dự án này (phiếu ngày 27/11).",
+   "keyPoints": [
+    "Tiếp nối Kế hoạch 664/KH-UBND (bản tin 27/11)",
+    "Theo dõi tiến độ kiểm đếm, lập phương án bồi thường dọc kênh Tẻ"
+   ],
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/tin-tuc-sang-28-11-tphcm-ra-ket-qua-thao-go-cac-du-an-day-nhanh-boi-thuong-mo-rong-duong-ton-that-thuyet-100261127210929615.htm",
+   "publishedAt": "2026-11-27T20:55:00.000Z"
+  },
+  {
+   "id": "a-4",
+   "kind": "tin-nong",
+   "pillars": [
+    "gcn"
+   ],
+   "title": "Thêm trăm căn nhà thấp tầng, căn hộ được cấp sổ",
+   "summary": "Tổ công tác 164 của TP.HCM tiếp tục tháo gỡ để cấp Giấy chứng nhận cho người mua nhà dự án: 600 căn hộ The Emerald 68 và 111 căn nhà thấp tầng dự án ở phường Tân Mỹ. Đây là kênh xử lý tồn đọng sổ hồng dự án thương mại.",
+   "keyPoints": [
+    "600 căn hộ The Emerald 68 (Tập đoàn Lê Phong)",
+    "111 căn nhà thấp tầng tại phường Tân Mỹ (Hưng Lộc Phát)",
+    "Do Tổ công tác 164 tháo gỡ"
+   ],
+   "sourceName": "CafeF",
+   "sourceUrl": "https://cafef.vn/them-tram-can-nha-thap-tang-can-ho-duoc-cap-so-188261128092325796.chn",
+   "publishedAt": "2026-11-28T02:59:00.000Z"
+  }
+ ],
  "news": [
   {
    "id": "r120",
@@ -291,5 +582,7 @@
   "afterDedupe": 549,
   "legalDeepAnalyzed": 0,
   "durationSec": 20
- }
+ },
+ "editorNote": "Tâm điểm: Quốc hội vừa thông qua Luật Đất đai (sửa đổi) và Luật Nhà ở (sửa đổi), cùng có hiệu lực 01/7/2027 — đất đủ điều kiện cấp GCN là được tách, hợp thửa; chung cư cũ xây từ 1994 trở về trước bồi thường theo 4 hình thức. Từ 01/3/2027 bỏ hẳn thủ tục công an kiểm tra nghiệm thu PCCC; các điều khoản cụ thể cần đối chiếu khi có toàn văn.",
+ "enrichedAt": "2026-11-28T09:52:04.794698Z"
 }
