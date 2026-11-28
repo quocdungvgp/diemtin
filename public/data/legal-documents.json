@@ -1,5 +1,41 @@
 [
  {
+  "id": "doc-2",
+  "docNumber": "664/KH-UBND",
+  "title": "Kế hoạch triển khai thực hiện công tác bồi thường, hỗ trợ, tái định cư Dự án xây dựng cải tạo, mở rộng đường Tôn Thất Thuyết và công viên cây xanh dọc bờ kênh Tẻ",
+  "docType": "Kế hoạch",
+  "issuer": "UBND TP.HCM",
+  "issueDate": "2026-11-25",
+  "effectiveDate": "2026-11-25",
+  "status": "moi-ban-hanh",
+  "isHot": false,
+  "pillars": [
+   "gpmb"
+  ],
+  "summary": "UBND TP.HCM ban hành kế hoạch triển khai bồi thường, hỗ trợ, tái định cư cho dự án cải tạo, mở rộng đường Tôn Thất Thuyết và công viên cây xanh dọc bờ kênh Tẻ. Toàn văn (tiến độ, phân công, phạm vi phường) chưa công khai trên các cổng đọc được — cần đối chiếu bản gốc.",
+  "impactBullets": [
+   "Khởi động GPMB dự án đường Tôn Thất Thuyết – công viên dọc kênh Tẻ",
+   "Tiến độ, phân công chi tiết: chờ toàn văn để đối chiếu"
+  ],
+  "relatedDocs": [],
+  "affectedSubjects": [
+   "Hộ dân, tổ chức có đất trong ranh dự án đường Tôn Thất Thuyết và bờ kênh Tẻ",
+   "Tổ chức làm nhiệm vụ bồi thường, GPMB và UBND phường có dự án"
+  ],
+  "comparisons": [],
+  "actionItems": [
+   {
+    "action": "Lấy toàn văn KH 664/KH-UBND để nắm mốc tiến độ, phân công và căn cứ áp dụng",
+    "target": "Tổ pháp chế / bồi thường"
+   }
+  ],
+  "keyQuotes": [],
+  "sourceName": "LuatVietnam",
+  "sourceUrl": "https://luatvietnam.vn/dau-tu/ke-hoach-664-kh-ubnd-tp-hcm-2026-boi-thuong-ho-tro-tai-dinh-cu-du-an-duong-ton-that-thuyet-457850-d2.html",
+  "enriched": true,
+  "firstSeenDate": "2026-11-27"
+ },
+ {
   "id": "doc-1",
   "docNumber": "102/2026/QĐ-UBND",
   "title": "Quyết định quy định các công trình được miễn giấy phép xây dựng trên địa bàn TP.HCM",
@@ -80,42 +116,6 @@
   ],
   "sourceName": "LuatVietnam (tin văn bản mới)",
   "sourceUrl": "https://luatvietnam.vn/tin-van-ban-moi/tu-30-11-2026-tp-hcm-bo-sung-3-nhom-cong-trinh-duoc-mien-giay-phep-xay-dung-186-116235-article.html",
-  "enriched": true,
-  "firstSeenDate": "2026-11-27"
- },
- {
-  "id": "doc-2",
-  "docNumber": "664/KH-UBND",
-  "title": "Kế hoạch triển khai thực hiện công tác bồi thường, hỗ trợ, tái định cư Dự án xây dựng cải tạo, mở rộng đường Tôn Thất Thuyết và công viên cây xanh dọc bờ kênh Tẻ",
-  "docType": "Kế hoạch",
-  "issuer": "UBND TP.HCM",
-  "issueDate": "2026-11-25",
-  "effectiveDate": "2026-11-25",
-  "status": "moi-ban-hanh",
-  "isHot": false,
-  "pillars": [
-   "gpmb"
-  ],
-  "summary": "UBND TP.HCM ban hành kế hoạch triển khai bồi thường, hỗ trợ, tái định cư cho dự án cải tạo, mở rộng đường Tôn Thất Thuyết và công viên cây xanh dọc bờ kênh Tẻ. Toàn văn (tiến độ, phân công, phạm vi phường) chưa công khai trên các cổng đọc được — cần đối chiếu bản gốc.",
-  "impactBullets": [
-   "Khởi động GPMB dự án đường Tôn Thất Thuyết – công viên dọc kênh Tẻ",
-   "Tiến độ, phân công chi tiết: chờ toàn văn để đối chiếu"
-  ],
-  "relatedDocs": [],
-  "affectedSubjects": [
-   "Hộ dân, tổ chức có đất trong ranh dự án đường Tôn Thất Thuyết và bờ kênh Tẻ",
-   "Tổ chức làm nhiệm vụ bồi thường, GPMB và UBND phường có dự án"
-  ],
-  "comparisons": [],
-  "actionItems": [
-   {
-    "action": "Lấy toàn văn KH 664/KH-UBND để nắm mốc tiến độ, phân công và căn cứ áp dụng",
-    "target": "Tổ pháp chế / bồi thường"
-   }
-  ],
-  "keyQuotes": [],
-  "sourceName": "LuatVietnam",
-  "sourceUrl": "https://luatvietnam.vn/dau-tu/ke-hoach-664-kh-ubnd-tp-hcm-2026-boi-thuong-ho-tro-tai-dinh-cu-du-an-duong-ton-that-thuyet-457850-d2.html",
   "enriched": true,
   "firstSeenDate": "2026-11-27"
  }

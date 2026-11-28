@@ -1,0 +1,295 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-28T08:41:13.051Z",
+ "publishAt": "2026-11-28T02:00:00.000Z",
+ "aiProvider": "none",
+ "kpis": {
+  "totalNewDocs": 0,
+  "xpxdHoanCong": 0,
+  "gcn": 0,
+  "tieuChuan": 0,
+  "gpmb": 0,
+  "nhaO": 0,
+  "totalNews": 30
+ },
+ "legalDocuments": [],
+ "analyses": [],
+ "news": [
+  {
+   "id": "r120",
+   "category": "thoi-su",
+   "title": "TP.HCM mở rộng diện miễn giấy phép xây dựng nhà ở riêng lẻ ra sao?",
+   "summary": "TP.HCM áp dụng Luật Phát triển đô thị để mở rộng hơn diện miễn giấy phép xây dựng nhà ở riêng lẻ so với Luật Xây dựng hiện hành.",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/tphcm-mo-rong-dien-mien-giay-phep-xay-dung-nha-o-rieng-le-ra-sao-100261128085557256.htm",
+   "publishedAt": "2026-11-28T05:19:00.000Z"
+  },
+  {
+   "id": "r365",
+   "category": "kinh-te",
+   "title": "Thông báo mới từ cơ quan Thuế: Chính thức tạm hoãn xuất cảnh với tất cả những người nộp thuế có tên sau đây",
+   "summary": "Cơ quan thuế tại Đắk Lắk và Cần Thơ thông báo tạm hoãn xuất cảnh đối với 88 cá nhân. Các khoản nợ được công bố cụ thể trong hồ sơ cộng lại hơn 3,37 tỷ đồng, trong đó khoản lớn nhất được nêu là hơn 526 triệu đồng.",
+   "sourceName": "CafeF",
+   "sourceUrl": "https://cafef.vn/thong-bao-moi-tu-co-quan-thue-chinh-thuc-tam-hoan-xuat-canh-voi-tat-ca-nhung-nguoi-nop-thue-co-ten-sau-day-188261128092449873.chn",
+   "publishedAt": "2026-11-28T02:24:00.000Z"
+  },
+  {
+   "id": "r392",
+   "category": "bat-dong-san",
+   "title": "Chuyển từ tiền kiểm sang hậu kiểm về phòng cháy chữa cháy: Doanh nghiệp được gì, cần làm gì?",
+   "summary": "Sau gần 5 tháng bãi bỏ thủ tục kiểm tra nghiệm thu về phòng cháy, chữa cháy (PCCC), hơn 1.100 công trình đã được chủ đầu tư tự nghiệm thu và đưa vào sử dụng. Với việc Quốc hội thông qua Luật sửa đổi ngày 20/11/2026, cải ",
+   "sourceName": "CafeF",
+   "sourceUrl": "https://cafef.vn/chuyen-tu-tien-kiem-sang-hau-kiem-ve-phong-chay-chua-chay-doanh-nghiep-duoc-gi-can-lam-gi-188261128105608419.chn",
+   "publishedAt": "2026-11-28T07:55:00.000Z"
+  },
+  {
+   "id": "r406",
+   "category": "bat-dong-san",
+   "title": "Thêm trăm căn nhà thấp tầng, căn hộ được cấp sổ",
+   "summary": "600 căn hộ The Emerald 68 do Công ty CP Tập đoàn Lê Phong làm chủ đầu tư, 111 căn nhà thấp tầng dự án Khu nhà ở cao tầng ở phường Tân Mỹ do Công ty CP Đầu tư Bất động sản Hưng Lộc Phát làm chủ đầu tư được Tổ Công tác 164",
+   "sourceName": "CafeF",
+   "sourceUrl": "https://cafef.vn/them-tram-can-nha-thap-tang-can-ho-duoc-cap-so-188261128092325796.chn",
+   "publishedAt": "2026-11-28T02:59:00.000Z"
+  },
+  {
+   "id": "r418",
+   "category": "bat-dong-san",
+   "title": "Cải tạo chung cư cũ, cư dân có thêm lựa chọn bồi thường",
+   "summary": "Luật Nhà ở (sửa đổi) bổ sung cơ chế xử lý những vướng mắc kéo dài trong cải tạo, xây dựng lại chung cư, từ lựa chọn chủ đầu tư, phương án bồi thường đến bố trí chỗ ở tạm cho cư dân.",
+   "sourceName": "CafeF",
+   "sourceUrl": "https://cafef.vn/cai-tao-chung-cu-cu-cu-dan-co-them-lua-chon-boi-thuong-188261128065222863.chn",
+   "publishedAt": "2026-11-28T00:17:00.000Z"
+  },
+  {
+   "id": "r452",
+   "category": "kinh-te",
+   "title": "TP. Hồ Chí Minh miễn giấy phép xây dựng nhà ở riêng lẻ dưới 7 tầng",
+   "summary": "VTV.vn - UBND TP. Hồ Chí Minh vừa ban hành quyết định miễn giấy phép xây dựng với một số loại công trình trên địa bàn.",
+   "sourceName": "VTV",
+   "sourceUrl": "https://vtv.vn/tp-ho-chi-minh-mien-giay-phep-xay-dung-nha-o-rieng-le-duoi-7-tang-100261127142615622.htm",
+   "publishedAt": "2026-11-27T08:29:00.000Z"
+  },
+  {
+   "id": "r2",
+   "category": "thoi-su",
+   "title": "Người đưa gánh đèn lồng Hội An vào tour quảng bá di sản",
+   "summary": "Thay vì treo dưới mái hiên cửa hiệu, đèn lồng được anh Nguyễn Anh Cường đưa lên đòn gánh, theo chân nông dân dạo phố cổ, mở ra tour trải nghiệm thu hút giới nhiếp ảnh và du khách.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/nguoi-dua-ganh-den-long-hoi-an-vao-tour-quang-ba-di-san-5149330.html",
+   "publishedAt": "2026-11-28T03:33:12.000Z"
+  },
+  {
+   "id": "r17",
+   "category": "thoi-su",
+   "title": "Tây Ninh khởi công đường hơn 9.300 tỷ đồng nối vùng Đồng Tháp Mười",
+   "summary": "Đường Tân An - Bình Hiệp dài gần 63 km, mở thêm hướng từ trung tâm tỉnh Tây Ninh đến vùng Đồng Tháp Mười và cửa khẩu quốc tế Bình Hiệp.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/tay-ninh-khoi-cong-duong-hon-9-300-ty-dong-noi-vung-dong-thap-muoi-5149469.html",
+   "publishedAt": "2026-11-27T03:47:32.000Z"
+  },
+  {
+   "id": "r25",
+   "category": "kinh-te",
+   "title": "Cải tạo chung cư cũ, chủ căn hộ được bồi thường thế nào từ giữa 2027",
+   "summary": "Từ 1/7/2027, chủ căn hộ chung cư xây trước năm 1994 không được tự góp tiền cải tạo, mà nhận bồi thường bằng nhà, đất hoặc tiền theo hệ số K.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/cai-tao-chung-cu-cu-chu-can-ho-duoc-boi-thuong-the-nao-tu-giua-2027-5149304.html",
+   "publishedAt": "2026-11-27T23:00:00.000Z"
+  },
+  {
+   "id": "r39",
+   "category": "kinh-te",
+   "title": "Thuế mới của ông Trump thêm thử thách thương mại Mỹ - Trung",
+   "summary": "Washington và Bắc Kinh khả năng không muốn tái khởi động thương chiến, nhưng đợt thuế mới có thể đẩy các nền kinh tế khác vào thế khó.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/thue-moi-cua-ong-trump-them-thu-thach-thuong-mai-my-trung-5149255.html",
+   "publishedAt": "2026-11-27T02:25:25.000Z"
+  },
+  {
+   "id": "r46",
+   "category": "the-gioi",
+   "title": "Ấn Độ sắp triển khai tổ hợp S-400 bảo vệ giới tuyến giáp Pakistan",
+   "summary": "Truyền thông Ấn Độ nói nước này sắp nhận thêm hệ thống S-400 và dự kiến triển khai để bảo vệ ranh giới tại vùng tranh chấp Kashmir.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/an-do-sap-trien-khai-to-hop-s-400-bao-ve-gioi-tuyen-giap-pakistan-5149855.html",
+   "publishedAt": "2026-11-28T04:36:47.000Z"
+  },
+  {
+   "id": "r80",
+   "category": "bat-dong-san",
+   "title": "Đất chưa có sổ đỏ vẫn có thể tách thửa từ 1/7/2027",
+   "summary": "Luật Đất đai sửa đổi mở rộng điều kiện tách, hợp thửa đất, yêu cầu đủ điều kiện cấp giấy chứng nhận thay vì phải có sổ như trước đây.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/dat-chua-co-so-do-van-co-the-tach-thua-tu-1-7-2027-5149954.html",
+   "publishedAt": "2026-11-28T06:28:47.000Z"
+  },
+  {
+   "id": "r84",
+   "category": "bat-dong-san",
+   "title": "'Cắt lỗ' chung cư 500 triệu đồng vẫn ế, có nên tiếp tục giảm thêm?",
+   "summary": "Người mua cần cân đối dòng tiền, dư nợ và giá giao dịch thực tế để quyết định nên tiếp tục nắm giữ chờ thị trường phục hồi hay chấp nhận bán lỗ, theo chuyên gia.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/cat-lo-chung-cu-500-trieu-dong-van-e-co-nen-tiep-tuc-giam-them-5149215.html",
+   "publishedAt": "2026-11-27T17:03:00.000Z"
+  },
+  {
+   "id": "r87",
+   "category": "bat-dong-san",
+   "title": "Căn hộ cho thuê ngắn hạn TP HCM nâng chuẩn 'đón sóng' APEC",
+   "summary": "Anh Trần Minh Đức, chủ căn hộ cho thuê ngắn hạn tại phường Sài Gòn, TP HCM đang cải tạo nội thất, lắp thêm bình chữa cháy, chuẩn hóa quy trình để đón khách APEC.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/can-ho-cho-thue-ngan-han-tp-hcm-nang-chuan-don-song-apec-5149168.html",
+   "publishedAt": "2026-11-27T03:51:00.000Z"
+  },
+  {
+   "id": "r132",
+   "category": "thoi-su",
+   "title": "Lò đốt rác Hội An thiết kế 4 tấn/giờ nhưng thực tế chỉ đạt 1,015 - 2,5 tấn/giờ, chưa được nghiệm thu",
+   "summary": "Lò đốt rác Hội An có công suất thiết kế 4 tấn/giờ nhưng qua 3 lần đốt thử nghiệm, công suất thực tế chỉ đạt 1,015 - 2,5 tấn/giờ.",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/lo-dot-rac-hoi-an-thiet-ke-4-tan-gio-nhung-thuc-te-chi-dat-1015-25-tan-gio-chua-duoc-nghiem-thu-100261128082201629.htm",
+   "publishedAt": "2026-11-28T02:21:00.000Z"
+  },
+  {
+   "id": "r147",
+   "category": "thoi-su",
+   "title": "Tin tức sáng 28-11: TP.HCM rà kết quả tháo gỡ các dự án; Đẩy nhanh bồi thường mở rộng đường Tôn Thất Thuyết",
+   "summary": "Tin tức đáng chú ý: TP.HCM rà lại kết quả tháo gỡ các dự án; Đẩy nhanh bồi thường mở rộng đường Tôn Thất Thuyết; Tăng trợ cấp hằng tháng với thanh niên xung phong cơ sở miền Nam...",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/tin-tuc-sang-28-11-tphcm-ra-ket-qua-thao-go-cac-du-an-day-nhanh-boi-thuong-mo-rong-duong-ton-that-thuyet-100261127210929615.htm",
+   "publishedAt": "2026-11-27T20:55:00.000Z"
+  },
+  {
+   "id": "r150",
+   "category": "thoi-su",
+   "title": "Black Friday: Hàng quán, dịch vụ đua săn khách, nhiều nơi kéo dài khuyến mãi đến hết tháng",
+   "summary": "Không chỉ săn sale quần áo, mỹ phẩm hay đồ công nghệ, người tiêu dùng có thêm lựa chọn chi tiêu cho ăn uống, làm đẹp, vui chơi khi nhiều đơn vị kinh doanh dịch vụ cũng nhập cuộc mùa khuyến mãi Black Friday năm nay.",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/black-friday-hang-quan-dich-vu-dua-san-khach-nhieu-noi-keo-dai-khuyen-mai-den-het-thang-100261127194453696.htm",
+   "publishedAt": "2026-11-27T15:06:00.000Z"
+  },
+  {
+   "id": "r222",
+   "category": "kinh-te",
+   "title": "CPTPP nâng cấp hiệp định, mở cửa đón thêm ba thành viên",
+   "summary": "Cùng với việc khởi động đàm phán nâng cấp Hiệp định CPTPP, các nước thành viên đã nhất trí việc khởi động đàm phán gia nhập với UAE, Indonesia và Philippines.",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/cptpp-nang-cap-hiep-dinh-mo-cua-don-them-ba-thanh-vien-100261127160323946.htm",
+   "publishedAt": "2026-11-27T10:52:00.000Z"
+  },
+  {
+   "id": "r223",
+   "category": "kinh-te",
+   "title": "Infographic: TP.HCM có gì ăn, chơi, mua sắm trong những ngày đầu tháng 12?",
+   "summary": "Từ ngày 28-11 đến 14-12, TP.HCM có nhiều sự kiện văn hóa, ẩm thực, mua sắm, du lịch và thể thao, mang đến thêm lựa chọn vui chơi, trải nghiệm cho người dân và du khách dịp cuối năm.",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/infographic-tphcm-co-gi-an-choi-mua-sam-trong-nhung-ngay-dau-thang-12-100261127160235979.htm",
+   "publishedAt": "2026-11-27T10:40:00.000Z"
+  },
+  {
+   "id": "r335",
+   "category": "the-gioi",
+   "title": "Đổi thế cờ nhưng chưa hết ván",
+   "summary": "Với hiệp ước vừa được ký kết với Quần đảo Solomon, Úc đã giành thêm thành công ngoại giao quan trọng trong khu vực.",
+   "sourceName": "Thanh Niên",
+   "sourceUrl": "https://thanhnien.vn/doi-the-co-nhung-chua-het-van-185261126221749707.htm",
+   "publishedAt": "2026-11-27T02:42:00.000Z"
+  },
+  {
+   "id": "r341",
+   "category": "cong-nghe",
+   "title": "Windows 11 giải phóng gần 900 MB RAM, máy tính 8 GB có thêm hy vọng",
+   "summary": "Microsoft cho biết Windows 11 đã giảm đáng kể mức tiêu thụ RAM, giúp máy tính 8 GB cải thiện hiệu suất trong nhiều tác vụ.",
+   "sourceName": "Thanh Niên",
+   "sourceUrl": "https://thanhnien.vn/windows-11-giai-phong-gan-900-mb-ram-may-tinh-8-gb-co-them-hy-vong-185261127211908758.htm",
+   "publishedAt": "2026-11-28T01:44:00.000Z"
+  },
+  {
+   "id": "r342",
+   "category": "cong-nghe",
+   "title": "Samsung có thể mắc sai lầm khi giảm sản xuất dòng Galaxy A",
+   "summary": "Galaxy A từng đóng góp phần lớn lượng smartphone Samsung bán ra, nhưng kế hoạch giảm sản lượng có thể tạo thêm lợi thế cho đối thủ.",
+   "sourceName": "Thanh Niên",
+   "sourceUrl": "https://thanhnien.vn/samsung-co-the-mac-sai-lam-khi-giam-san-xuat-dong-galaxy-a-185261127182104294.htm",
+   "publishedAt": "2026-11-27T23:59:00.000Z"
+  },
+  {
+   "id": "r44",
+   "category": "the-gioi",
+   "title": "Giới trung lưu Trung Quốc thắt hầu bao, quay lưng với áo lông vũ cao cấp",
+   "summary": "Sự tương phản giữa tình hình tiêu thụ những mẫu áo khoác lông vũ giá cao và bình dân trong mùa đông cho thấy tâm lý chi tiêu dè dặt của người tiêu dùng tầng lớp trung lưu.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/gioi-trung-luu-trung-quoc-that-hau-bao-quay-lung-voi-ao-long-vu-cao-cap-5149906.html",
+   "publishedAt": "2026-11-28T05:25:51.000Z"
+  },
+  {
+   "id": "r45",
+   "category": "the-gioi",
+   "title": "Italy tố ông Zelensky 'nói dối' về vụ tập kích tàu Nga ở Libya",
+   "summary": "Italy cho rằng Tổng thống Zelensky không nói thật khi tuyên bố Ukraine đã phối hợp với đối tác quốc tế khi tấn công chiến hạm Nga ở Libya.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/italy-to-ong-zelensky-noi-doi-ve-vu-tap-kich-tau-nga-o-libya-5149904.html",
+   "publishedAt": "2026-11-28T05:24:37.000Z"
+  },
+  {
+   "id": "r47",
+   "category": "the-gioi",
+   "title": "Gần 290.000 người Canada ký tên kêu gọi trục xuất Đại sứ Mỹ",
+   "summary": "Gần 290.000 người Canada ký tên vào bản kiến nghị kêu gọi Thủ tướng Carney trục xuất Đại sứ Mỹ Hoekstra vì \"làm suy yếu quan hệ ngoại giao giữa hai nước\".",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/gan-290-000-nguoi-canada-ky-ten-keu-goi-truc-xuat-dai-su-my-5149879.html",
+   "publishedAt": "2026-11-28T03:28:47.000Z"
+  },
+  {
+   "id": "r48",
+   "category": "the-gioi",
+   "title": "Người Kiev giằng co giữa đi hay ở trước mùa đông tối tăm",
+   "summary": "Mất điện, thiếu nước kéo dài và những đợt tập kích dồn dập đang đẩy cư dân Kiev vào thế giằng co giữa bám trụ qua mùa đông hay rời bỏ thành phố.",
+   "sourceName": "VnExpress",
+   "sourceUrl": "https://vnexpress.net/nguoi-kiev-giang-co-giua-di-hay-o-truoc-mua-dong-toi-tam-5149517.html",
+   "publishedAt": "2026-11-28T03:00:00.000Z"
+  },
+  {
+   "id": "r159",
+   "category": "cong-nghe",
+   "title": "Tin tặc xâm nhập Cloud One, đe dọa dữ liệu quân sự Mỹ",
+   "summary": "Vụ xâm nhập Cloud One làm dấy lên lo ngại dữ liệu nhạy cảm về chiến thuật, nhân sự và hậu cần quân sự Mỹ có thể bị lộ.",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/tin-tac-xam-nhap-cloud-one-de-doa-du-lieu-quan-su-my-100261127230206157.htm",
+   "publishedAt": "2026-11-27T16:21:00.000Z"
+  },
+  {
+   "id": "r160",
+   "category": "cong-nghe",
+   "title": "5G có thể làm sai lệch dữ liệu vệ tinh, ảnh hưởng dự báo thời tiết nguy hiểm",
+   "summary": "Các nhà khoa học cảnh báo sóng 5G có thể làm sai lệch dữ liệu vệ tinh, kéo theo nguy cơ giảm độ chính xác của những dự báo thời tiết quan trọng.",
+   "sourceName": "Tuổi Trẻ",
+   "sourceUrl": "https://tuoitre.vn/5g-co-the-lam-sai-lech-du-lieu-ve-tinh-anh-huong-du-bao-thoi-tiet-nguy-hiem-100261127104046061.htm",
+   "publishedAt": "2026-11-27T05:13:00.000Z"
+  },
+  {
+   "id": "r337",
+   "category": "cong-nghe",
+   "title": "Giá RAM DDR4 bất ngờ giảm sau một năm tăng phi mã",
+   "summary": "Sau nhiều tháng tăng giá liên tục, giá RAM DDR4 bắt đầu giảm mang đến tín hiệu tích cực cho người dùng máy tính đang chờ nâng cấp.",
+   "sourceName": "Thanh Niên",
+   "sourceUrl": "https://thanhnien.vn/gia-ram-ddr4-bat-ngo-giam-sau-mot-nam-tang-phi-ma-185261128104609209.htm",
+   "publishedAt": "2026-11-28T08:30:00.000Z"
+  },
+  {
+   "id": "r338",
+   "category": "cong-nghe",
+   "title": "Huawei bất ngờ thiết kế chip nhớ có thể vượt mặt Samsung",
+   "summary": "Huawei đang phát triển chip nhớ băng thông cao với giao tiếp dữ liệu rộng gấp đôi sản phẩm Samsung và SK Hynix hiện nay.",
+   "sourceName": "Thanh Niên",
+   "sourceUrl": "https://thanhnien.vn/huawei-bat-ngo-thiet-ke-chip-nho-co-the-vuot-mat-samsung-185261128101102133.htm",
+   "publishedAt": "2026-11-28T07:56:00.000Z"
+  }
+ ],
+ "stats": {
+  "rawCollected": 654,
+  "afterDedupe": 549,
+  "legalDeepAnalyzed": 0,
+  "durationSec": 20
+ }
+}
